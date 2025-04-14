@@ -28,8 +28,8 @@
   </tr>
 </table>
 
-
-
+##  <b> Video explicativo <b>
+https://drive.google.com/file/d/1iKqZCdE_lVILLDKaJ5-QVikmqz_nKO7q/view?usp=drive_link
 <br>
 
 ## 🐍 Gracias Por Ver Nuestro Repositorio
