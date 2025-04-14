@@ -8,9 +8,10 @@
 <div style={padding: 10px}>
   <table style={margin: 0 auto}>
   <tr align="center">
+    <td>Erika Guardado</td>
     <td>Yesenia Hernández</td>
     <td>Cristina Perez</td>
-    <td>Erika Guardado</td>
+    
 
   
   </tr>
